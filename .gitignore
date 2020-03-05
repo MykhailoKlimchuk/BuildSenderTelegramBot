@@ -1,0 +1,8 @@
+/venv
+/.idea
+/.git
+/.svn
+/__pycache__
+credentials.json
+log.log
+run.bat
